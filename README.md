@@ -6,7 +6,7 @@ Welcome to my professional development and SEO showcase.
 
 ## Featured Client Projects
 
-### [housedoll](https://www.housedoll.com)
+### [Übersetzungsbüro PRO](https://uebersetzungsbuero.pro)
 A high-performance e-commerce storefront built with Next.js.
 * **Role:** Full-Stack Web Designer & SEO Consultant.
 * **Focus:** Technical SEO, Conversion Rate Optimization (CRO), and fast-loading architecture.

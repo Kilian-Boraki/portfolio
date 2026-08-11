@@ -6,8 +6,8 @@ Welcome to my professional development and SEO showcase.
 
 ## Featured Client Projects
 
-### [Übersetzungsbüro PRO](https://uebersetzungsbuero.pro)
-A high-performance e-commerce storefront built with Next.js.
+### [Kaiwords](https://kaiwords.de)
+A high-performance Translation Agency Website build with html, css, js integrated in Wordpress.
 * **Role:** Full-Stack Web Designer & SEO Consultant.
 * **Focus:** Technical SEO, Conversion Rate Optimization (CRO), and fast-loading architecture.
-* **Tech Stack:** Next.js, React, CSS3.
+* **Tech Stack:** Html, Css, js, php.
